@@ -36,6 +36,7 @@ streamlit run streamlit_app.py
 - App file: `streamlit_app.py`
 - Branch: `main`
 - After pushing changes: in Streamlit Cloud click “Clear cache and reboot” to reinstall deps and reload.
+- https://brewingtea.streamlit.app/
 
 ### Files of interest
 - `streamlit_app.py` — main app
@@ -84,6 +85,7 @@ streamlit run streamlit_app.py
 - 앱 파일: `streamlit_app.py`
 - 브랜치: `main`
 - 변경 후 배포 갱신: Streamlit Cloud에서 “Clear cache and reboot” 클릭
+- https://brewingtea.streamlit.app/
 
 ### 주요 파일
 - `streamlit_app.py` — 메인 앱
